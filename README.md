@@ -38,5 +38,29 @@
           </p>
         </div>
       </li>
+      <li>
+        <div>
+          <h4><a href="https://github.com/NishikantS578/whiteboard" target="_blank">Whiteboard</a></h4>
+          <p>
+            A Simple Whiteboard, with multi user support, built using JS canvas and websockets in nodejs.
+          </p>
+        </div>
+      </li>
+      <li>
+        <div>
+          <h4><a href="https://github.com/NishikantS578/majorProject" target="_blank">Compiler</a></h4>
+          <p>
+            A Really Simple Compiler with VM written in Go.
+          </p>
+        </div>
+      </li>
+      <li>
+        <div>
+          <h4><a href="https://github.com/NishikantS578/Game_Of_Life" target="_blank">Conway's Game of Life</a> (<a href="https://nishikants578.github.io/Game_Of_Life/">Deployment</a>)</h4>
+          <p>
+            A Simple Implementation of Conway's Game of Life using JS canvas.
+          </p>
+        </div>
+      </li>
   </ul>
 </p>
