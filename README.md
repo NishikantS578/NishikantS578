@@ -40,14 +40,6 @@
       </li>
       <li>
         <div>
-          <h4><a href="https://github.com/NishikantS578/whiteboard" target="_blank">Whiteboard</a></h4>
-          <p>
-            A Simple Whiteboard, with multi user support, built using JS canvas and websockets in nodejs.
-          </p>
-        </div>
-      </li>
-      <li>
-        <div>
           <h4><a href="https://github.com/NishikantS578/majorProject" target="_blank">Compiler</a></h4>
           <p>
             A Really Simple Compiler with VM written in Go.
