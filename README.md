@@ -17,7 +17,7 @@
 - 💬 Ask me about **a**
 -->
 📫 Reach me at **nishikantsingh2004@gmail.com**
-<a href="https://nishikant.me">nishikant.me</a>
+[https://nishikant.me](nishikant.me)
 <!--
 - 📄 Know about my experiences [a](a)
 
