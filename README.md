@@ -28,33 +28,3 @@
   <a href="https://www.leetcode.com/nishikantsingh" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nishikantsingh" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/nishikant-singh-65750022b" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nishikant singh" height="30" width="40" /></a>
 </p>
-
-<h3>Projects</h3>
-<p>
-    <ul>
-      <li>
-        <div>
-          <h4><a href="https://github.com/NishikantS578/http_server" target="_blank">HTTP Server</a></h4>
-          <p>
-            A Simple HTTP Server, with concurrent request handling, gzip compression of data.
-          </p>
-        </div>
-      </li>
-      <li>
-        <div>
-          <h4><a href="https://github.com/NishikantS578/majorProject" target="_blank">Compiler</a></h4>
-          <p>
-            A Really Simple Compiler with VM written in Go.
-          </p>
-        </div>
-      </li>
-      <li>
-        <div>
-          <h4><a href="https://github.com/NishikantS578/Game_Of_Life" target="_blank">Conway's Game of Life</a> (<a href="https://nishikants578.github.io/Game_Of_Life/">Deployment</a>)</h4>
-          <p>
-            A Simple Implementation of Conway's Game of Life using JS canvas.
-          </p>
-        </div>
-      </li>
-  </ul>
-</p>
